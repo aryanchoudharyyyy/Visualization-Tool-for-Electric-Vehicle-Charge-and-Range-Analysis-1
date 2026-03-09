@@ -12,4 +12,4 @@ This project analyzes Electric Vehicle charging infrastructure, performance metr
 🔗 [(https://public.tableau.com/views/ELECTRICVEHICLECHARGEANDRANGEALAYSIS-STORY/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 🎥 Video Demonstration  
-🔗 [https://drive.google.com/file/d/13JQDVtO26L1s0n2weSf7n81_ap2bpET7/view?usp=sharing]
+🔗 [https://drive.google.com/drive/folders/18BoAk6KOEwIhBRLaP-O0Yrb_nnfsmLLo?usp=sharing]
