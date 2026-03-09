@@ -1,7 +1,7 @@
 🚗 Visualization Tool for Electric Vehicle Charge and Range Analysis
 📌 Project Overview
 
-This project analyzes Electric Vehicle charging infrastructure, performance metrics, brand distribution, powertrain segmentation, and pricing trends using SQL preprocessing, Tableau visualization, and Flask web integration.
+This project analyzes Electric Vehicle charging infrastructure, performance metrics , brand distribution, powertrain segmentation, and pricing trends using SQL preprocessing, Tableau visualization, and Flask web integration.
 
 📊 Live Tableau Dashboard
 
