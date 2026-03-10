@@ -4,8 +4,7 @@
 This project analyzes Electric Vehicle charging infrastructure, performance metrics , brand distribution, powertrain segmentation, and pricing trends using SQL preprocessing, Tableau visualization, and Flask web integration.
 
 📊 Live Tableau Dashboard
-
-🔗 [(https://public.tableau.com/views/ELECTRICVEHICLECHARGEANDRANGEALAYSIS/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+ [(https://public.tableau.com/views/ELECTRICVEHICLECHARGEANDRANGEALAYSIS_17731647486220/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 📖 Live Tableau Story
 
